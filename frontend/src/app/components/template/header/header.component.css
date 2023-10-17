@@ -2,7 +2,6 @@
 
 display: flex;
 align-items: center;
-
 }
 
 .header a{
@@ -17,7 +16,7 @@ align-items: center;
 
 .header .title-group{
    
-    padding-left: 1400px;
+    padding-left: 1100px;
 }
 
 .header .title-group i{
