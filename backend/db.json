@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Nootebook Intel",
+      "price": 2300.33
+    },
+    {
+      "id": 3,
+      "name": "Iphone A54",
+      "price": 1900.23
+    }
+  ]
+}
+
