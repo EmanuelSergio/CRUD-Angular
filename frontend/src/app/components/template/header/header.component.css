@@ -12,11 +12,12 @@ align-items: center;
 
 .header .logo{
     max-height: 92px;
+    
 }
 
 .header .title-group{
    
-    padding-left: 11px;
+    padding-left: 48px;
 }
 
 .header .title-group i{
