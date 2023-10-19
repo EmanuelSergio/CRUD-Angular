@@ -9,4 +9,8 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
   isActive = false;
+
+
+palavras:string[] = ['opa', 'bom', 'ain']
+
 }
