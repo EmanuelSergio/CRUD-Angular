@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta bic",
+      "name": "Caneta fabercasstell",
       "price": 5.89
     },
     {
       "id": 2,
       "name": "Nootebook Intel",
-      "price": 2300.33
+      "price": "230033321321"
     },
     {
       "id": 3,
