@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "name": "Parati",
-      "price": "17000",
-      "id": 1
-    },
-    {
       "name": "Fone JBL",
       "price": "139.90",
       "id": 2
@@ -14,6 +9,16 @@
       "name": "app.ap",
       "price": "1.501",
       "id": 3
+    },
+    {
+      "name": "JEEP ",
+      "price": "154000",
+      "id": 4
+    },
+    {
+      "name": "Caneta ",
+      "price": "4.73",
+      "id": 5
     }
   ]
 }
