@@ -1,24 +1,19 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta fabercasstell",
-      "price": 5.89
+      "name": "Parati",
+      "price": "17000",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Nootebook Intel",
-      "price": "230033321321"
+      "name": "Fone JBL",
+      "price": "139.90",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Samsung A54",
-      "price": 1900.23
-    },
-    {
-      "name": "Asus VivoBook",
-      "price": "2139",
-      "id": 4
+      "name": "app.ap",
+      "price": "1.501",
+      "id": 3
     }
   ]
 }

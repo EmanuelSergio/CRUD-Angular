@@ -8,15 +8,15 @@
     <form>
 
         <mat-form-field>
-            <input matInput placeholder="Nome" [(ngModel)]="product.name" name="name" disabled="">
+            <input matInput placeholder="Nome" [value]="product.name" name="name" disabled="">
         </mat-form-field>
         
         <mat-form-field>
-            <input matInput placeholder="Valor" [(ngModel)]="product.price" name="price" disabled="">
+            <input matInput placeholder="Valor" [value]="product.price" name="price" disabled="">
         </mat-form-field>
     </form>
 
-    <div class="direction"><button mat-raised-button (click)="deletar()" color="warn" class="botao" >
+    <div class="direction"><button mat-raised-button (click)="deleteProduct()" color="warn" class="botao" >
         Deletar
     </button>
     

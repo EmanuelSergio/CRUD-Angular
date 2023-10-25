@@ -19,3 +19,10 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 }
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.msg-success .mdc-snackbar__surface::before {
+    background-color: #28a745;
+    color: #fff;
+    z-index: -1;
+}
