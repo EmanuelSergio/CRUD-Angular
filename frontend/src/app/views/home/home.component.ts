@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { HeaderService } from '../../components/template/header/header.service';
 
 
 @Component({ 
@@ -8,9 +9,16 @@ import { Component } from '@angular/core';
   
 })
 export class HomeComponent {
-  isActive = false;
+  
+  constructor( private headerService: HeaderService ) {
+    headerService.headerData = {
+      title:'Início',
+      icon: 'home',
+      routeUrl: ''
+    }
+  }
 
+  
 
-palavras:string[] = ['opa', 'bom', 'ain']
 
 }
