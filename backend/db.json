@@ -19,6 +19,21 @@
       "name": "Caneta ",
       "price": "4.73",
       "id": 5
+    },
+    {
+      "name": "Cuca Vansuit",
+      "price": "10",
+      "id": 6
+    },
+    {
+      "name": "Iphone 13",
+      "price": "3000",
+      "id": 7
+    },
+    {
+      "name": "margarina",
+      "price": "5.99",
+      "id": 8
     }
   ]
 }
